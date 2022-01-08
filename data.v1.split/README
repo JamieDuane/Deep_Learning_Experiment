@@ -1,0 +1,5 @@
+The included data set contains 137,362 aligned sentences extracted by pairing Simple English Wikipedia with English Wikipedia.  A complete description of the extraction process can be found in "Simple English Wikipedia: A New Simplification Task", William Coster and David Kauchak (2011).  In Proceedings of ACL (short paper).  The data set contains those sentences with a similarity above 0.50.  Higher precision alignments may be obtained by TF-IDF thresholding at higher levels.
+
+6 files have been provided.  The normal/simple prefix indicates whether the file contains normal sentences (English Wikipedia) or simplified (Simple English Wikipedia).  training, testing and tuning indicate the their respective data split used in the paper above.
+
+For questions regarding the data set set, contact David Kauchak at Pomona College.
